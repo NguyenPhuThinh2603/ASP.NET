@@ -9,6 +9,6 @@ namespace nguyenphuthinh_2122110426.Models
     public class HomeModel
     {
         public List<Product> ListProduct{ get; set; }
-        public List<Category>ListCategory { get; set; }
+        public List<Category> ListCategory { get; set; }
     }
 }
