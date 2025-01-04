@@ -18,7 +18,7 @@ namespace nguyenphuthinh_2122110426.Areas.Admin
                 "Admin_default",
                 "Admin/{controller}/{action}/{id}",
                 new { action = "Index", id = UrlParameter.Optional },
-                      new[] { "ASP.NET.Areas.Admin.Controllers" }
+              new[] { "nguyenphuthinh_2122110426.Areas.Admin.Controllers" }
             );
         }
     }

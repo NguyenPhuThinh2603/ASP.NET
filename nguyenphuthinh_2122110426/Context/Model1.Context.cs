@@ -16,7 +16,7 @@ namespace nguyenphuthinh_2122110426.Context
     public partial class WebsiteASP_NETEntities : DbContext
     {
         public WebsiteASP_NETEntities()
-            : base("name=WebsiteASP_NETEntities")
+            : base("name=WebsiteASP_NETEntities2")
         {
         }
     
@@ -28,6 +28,7 @@ namespace nguyenphuthinh_2122110426.Context
         public virtual DbSet<Brand> Brand { get; set; }
         public virtual DbSet<Category> Category { get; set; }
         public virtual DbSet<Order> Order { get; set; }
+        public virtual DbSet<OrderDetail> OrderDetail { get; set; }
         public virtual DbSet<Product> Product { get; set; }
         public virtual DbSet<User> User { get; set; }
     }

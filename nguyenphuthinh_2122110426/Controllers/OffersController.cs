@@ -6,7 +6,7 @@ using System.Web.Mvc;
 
 namespace nguyenphuthinh_2122110426.Controllers
 {
-    public class OffersController : Controller
+    public class OffersControllers : Controller
     {
         // GET: Offers
         public ActionResult Offers()

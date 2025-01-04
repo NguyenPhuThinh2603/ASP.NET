@@ -3,100 +3,188 @@
   "WorkspaceRootPath": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|c:\\users\\voeee\\downloads\\asp.net-main\\asp.net-main\\nguyenphuthinh_2122110426\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\views\\category\\productcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\views\\category\\productcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|c:\\users\\voeee\\downloads\\asp.net-main\\asp.net-main\\nguyenphuthinh_2122110426\\views\\products\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\views\\products\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|c:\\users\\voeee\\downloads\\asp.net-main\\asp.net-main\\nguyenphuthinh_2122110426\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|c:\\users\\voeee\\downloads\\asp.net-main\\asp.net-main\\nguyenphuthinh_2122110426\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|c:\\users\\voeee\\downloads\\asp.net-main\\asp.net-main\\nguyenphuthinh_2122110426\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|c:\\users\\voeee\\downloads\\asp.net-main\\asp.net-main\\nguyenphuthinh_2122110426\\views\\product\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\views\\product\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|c:\\users\\voeee\\downloads\\asp.net-main\\asp.net-main\\nguyenphuthinh_2122110426\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\views\\category\\allcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\views\\category\\allcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|c:\\users\\voeee\\downloads\\asp.net-main\\asp.net-main\\nguyenphuthinh_2122110426\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|c:\\users\\voeee\\downloads\\asp.net-main\\asp.net-main\\nguyenphuthinh_2122110426\\context\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\context\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|c:\\users\\voeee\\downloads\\asp.net-main\\asp.net-main\\nguyenphuthinh_2122110426\\views\\category\\productcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\views\\category\\productcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|c:\\users\\voeee\\downloads\\asp.net-main\\asp.net-main\\nguyenphuthinh_2122110426\\context\\model1.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\context\\model1.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|c:\\users\\voeee\\downloads\\asp.net-main\\asp.net-main\\nguyenphuthinh_2122110426\\context\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\context\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|c:\\users\\voeee\\downloads\\asp.net-main\\asp.net-main\\nguyenphuthinh_2122110426\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\models\\productlisstviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\models\\productlisstviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|c:\\users\\voeee\\downloads\\asp.net-main\\asp.net-main\\nguyenphuthinh_2122110426\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|c:\\users\\voeee\\downloads\\asp.net-main\\asp.net-main\\nguyenphuthinh_2122110426\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|c:\\users\\voeee\\downloads\\asp.net-main\\asp.net-main\\nguyenphuthinh_2122110426\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|c:\\users\\voeee\\downloads\\asp.net-main\\asp.net-main\\nguyenphuthinh_2122110426\\context\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\context\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|c:\\users\\voeee\\downloads\\asp.net-main\\asp.net-main\\nguyenphuthinh_2122110426\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|c:\\users\\voeee\\downloads\\asp.net-main\\asp.net-main\\nguyenphuthinh_2122110426\\areas\\admin\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\areas\\admin\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\context\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\context\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\views\\category\\allcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\views\\category\\allcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\views\\profile\\address.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\views\\profile\\address.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\content\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\content\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\views\\payment\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\views\\payment\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\views\\offers\\offers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\views\\offers\\offers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\context\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\context\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\controllers\\offerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\controllers\\offerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\areas\\admin\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\areas\\admin\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC7750F1-F9AC-45CF-A006-18BB61B95EBC}|nguyenphuthinh_2122110426\\nguyenphuthinh_2122110426.csproj|solutionrelative:nguyenphuthinh_2122110426\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,102 +194,389 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Home\\Login.cshtml",
-              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Views\\Home\\Login.cshtml",
-              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Home\\Login.cshtml",
-              "RelativeToolTip": "nguyenphuthinh_2122110426\\Views\\Home\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T08:58:29.182Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Home\\Register.cshtml",
-              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Views\\Home\\Register.cshtml",
-              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Home\\Register.cshtml",
-              "RelativeToolTip": "nguyenphuthinh_2122110426\\Views\\Home\\Register.cshtml",
-              "ViewState": "AgIAACsAAAAAAAAAAAAAADwAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T08:57:57.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\User\\Login.cshtml",
-              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Views\\User\\Login.cshtml",
-              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\User\\Login.cshtml",
-              "RelativeToolTip": "nguyenphuthinh_2122110426\\Views\\User\\Login.cshtml",
-              "ViewState": "AgIAABkAAAAAAAAAAAAcwDMAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T07:28:01.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Controllers\\UserController.cs",
-              "RelativeToolTip": "nguyenphuthinh_2122110426\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T07:27:57.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "nguyenphuthinh_2122110426\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAIwEUAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T07:59:27.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "nguyenphuthinh_2122110426\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAMwPMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T07:03:00.075Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "nguyenphuthinh_2122110426\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAGABAAAAAAAAAAAMwBABAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAFgBAAAAAAAAAAAAwBsBAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-11T08:07:45.531Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:09:09.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminAreaRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T06:41:38.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:26:48.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Category\\ProductCategory.cshtml",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Views\\Category\\ProductCategory.cshtml",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Category\\ProductCategory.cshtml",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Views\\Category\\ProductCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T07:05:04.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Products\\ProductDetail.cshtml",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Views\\Products\\ProductDetail.cshtml",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Products\\ProductDetail.cshtml",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Views\\Products\\ProductDetail.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T17:19:53.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T17:19:28.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Context\\Product.cs",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Context\\Product.cs",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Context\\Product.cs",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Context\\Product.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAewBgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:10:14.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductLisstViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Models\\ProductLisstViewModel.cs",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Models\\ProductLisstViewModel.cs",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Models\\ProductLisstViewModel.cs",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Models\\ProductLisstViewModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:09:51.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAswDAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:08:23.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T16:11:17.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAQwIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T16:12:11.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAQwJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T16:12:34.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwFEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T16:12:53.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAApwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T16:13:13.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Controllers\\CartController.cs",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Controllers\\CartController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T02:56:11.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T06:42:12.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAHIDAAAAAAAAAAAQwIADAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T06:43:48.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:59:27.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Context\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Context\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Context\\Model1.Context.cs",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Context\\Model1.Context.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowBEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:28:34.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAE4AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T05:56:58.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Payment\\Index.cshtml",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Views\\Payment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Payment\\Index.cshtml",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Views\\Payment\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T08:38:05.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T07:03:00.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowCgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T08:50:36.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Allcategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Category\\Allcategory.cshtml",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Views\\Category\\Allcategory.cshtml",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Category\\Allcategory.cshtml",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Views\\Category\\Allcategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T07:05:00.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Payment.cshtml",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Payment\\Payment.cshtml",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Views\\Payment\\Payment.cshtml",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Payment\\Payment.cshtml",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Views\\Payment\\Payment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T08:32:18.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T08:58:29.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Content\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Content\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Content\\css\\bootstrap.css",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Content\\css\\bootstrap.css",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAADAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-29T05:57:44.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Address.cshtml",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Profile\\Address.cshtml",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Views\\Profile\\Address.cshtml",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Profile\\Address.cshtml",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Views\\Profile\\Address.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-29T06:13:18.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HomeModel.cs",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Models\\HomeModel.cs",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Models\\HomeModel.cs",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Models\\HomeModel.cs",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Models\\HomeModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T08:01:17.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Models\\User.cs",
               "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Models\\User.cs",
@@ -209,215 +584,186 @@
               "RelativeToolTip": "nguyenphuthinh_2122110426\\Models\\User.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T08:51:52.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T08:51:52.404Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 31,
+              "Title": "CartModel.cs",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Models\\CartModel.cs",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Models\\CartModel.cs",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Models\\CartModel.cs",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Models\\CartModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T05:59:46.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Offers.cshtml",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Offers\\Offers.cshtml",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Views\\Offers\\Offers.cshtml",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Offers\\Offers.cshtml",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Views\\Offers\\Offers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T05:47:33.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\User\\Register.cshtml",
-              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Views\\User\\Register.cshtml",
-              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\User\\Register.cshtml",
-              "RelativeToolTip": "nguyenphuthinh_2122110426\\Views\\User\\Register.cshtml",
-              "ViewState": "AgIAACMAAAAAAAAAAAAcwDwAAAAGAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Views\\Home\\Register.cshtml",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Views\\Home\\Register.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAiwDwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T08:35:44.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T08:57:57.915Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "nguyenphuthinh_2122110426\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAawBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T07:08:23.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Model1.Context.cs",
-              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Context\\Model1.Context.cs",
-              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Context\\Model1.Context.cs",
-              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Context\\Model1.Context.cs",
-              "RelativeToolTip": "nguyenphuthinh_2122110426\\Context\\Model1.Context.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T05:59:55.698Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Allcategory.cshtml",
-              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Category\\Allcategory.cshtml",
-              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Views\\Category\\Allcategory.cshtml",
-              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Category\\Allcategory.cshtml",
-              "RelativeToolTip": "nguyenphuthinh_2122110426\\Views\\Category\\Allcategory.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAABEAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T07:05:00.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductDetail.cshtml",
-              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Product\\ProductDetail.cshtml",
-              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Views\\Product\\ProductDetail.cshtml",
-              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Product\\ProductDetail.cshtml",
-              "RelativeToolTip": "nguyenphuthinh_2122110426\\Views\\Product\\ProductDetail.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAEAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T08:16:28.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "nguyenphuthinh_2122110426\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T07:14:09.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ProductCategory.cshtml",
-              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Category\\ProductCategory.cshtml",
-              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Views\\Category\\ProductCategory.cshtml",
-              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Category\\ProductCategory.cshtml",
-              "RelativeToolTip": "nguyenphuthinh_2122110426\\Views\\Category\\ProductCategory.cshtml",
-              "ViewState": "AgIAAL8AAAAAAAAAAAAMwNQAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T07:05:04.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "PaymentController.cs",
-              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Controllers\\PaymentController.cs",
-              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Controllers\\PaymentController.cs",
-              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Controllers\\PaymentController.cs",
-              "RelativeToolTip": "nguyenphuthinh_2122110426\\Controllers\\PaymentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T08:50:36.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "HomeModel.cs",
-              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Models\\HomeModel.cs",
-              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Models\\HomeModel.cs",
-              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Models\\HomeModel.cs",
-              "RelativeToolTip": "nguyenphuthinh_2122110426\\Models\\HomeModel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T08:01:17.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Model1.edmx.diagram",
-              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Context\\Model1.edmx.diagram",
-              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Context\\Model1.edmx.diagram",
-              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Context\\Model1.edmx.diagram",
-              "RelativeToolTip": "nguyenphuthinh_2122110426\\Context\\Model1.edmx.diagram",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-18T06:00:01.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 34,
               "Title": "Model1.edmx [Diagram1]",
               "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Context\\Model1.edmx",
               "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Context\\Model1.edmx",
               "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Context\\Model1.edmx [Diagram1]",
               "RelativeToolTip": "nguyenphuthinh_2122110426\\Context\\Model1.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-12-18T05:59:28.473Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2024-12-25T08:28:15.866Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AdminAreaRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Areas\\Admin\\AdminAreaRegistration.cs",
-              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Areas\\Admin\\AdminAreaRegistration.cs",
-              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Areas\\Admin\\AdminAreaRegistration.cs",
-              "RelativeToolTip": "nguyenphuthinh_2122110426\\Areas\\Admin\\AdminAreaRegistration.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABBAAAAAAAAAA==",
+              "DocumentIndex": 35,
+              "Title": "OffersController.cs",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Controllers\\OffersController.cs",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Controllers\\OffersController.cs",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Controllers\\OffersController.cs",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Controllers\\OffersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T07:58:26.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T02:56:08.848Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "nguyenphuthinh_2122110426\\App_Start\\RouteConfig.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBMAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T08:26:48.533Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 38,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Areas\\Admin\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Areas\\Admin\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Areas\\Admin\\Controllers\\HomeController.cs",
               "RelativeToolTip": "nguyenphuthinh_2122110426\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T07:59:22.552Z",
+              "WhenOpened": "2024-12-19T06:42:00.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\web.config",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\web.config",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\web.config",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\web.config",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-19T07:07:36.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T07:18:52.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\packages.config",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\packages.config",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\packages.config",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-19T06:54:46.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Web.config",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Web.config",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Views\\Web.config",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-19T06:55:17.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "favicon.ico - Icon [16x16, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\favicon.ico",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\favicon.ico",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\favicon.ico - Icon [16x16, 32 bit, BMP]",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\favicon.ico - Icon [16x16, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-12-19T06:55:15.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Global.asax.cs",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Global.asax.cs",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Global.asax.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T06:55:10.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Web.config",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Web.config",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Web.config",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Web.config",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-19T06:54:39.847Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAFgCAAAAAAAAAAAAAA==",
+              "DocumentIndex": 44,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T08:00:08.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T06:21:30.274Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "nguyenphuthinh_2122110426\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T08:01:50.512Z",
-              "EditorCaption": ""
+              "DocumentIndex": 45,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "nguyenphuthinh_2122110426\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\voeee\\Downloads\\ASP.NET-main\\ASP.NET-main\\nguyenphuthinh_2122110426\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "nguyenphuthinh_2122110426\\App_Start\\FilterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T05:46:34.852Z"
             }
           ]
         }

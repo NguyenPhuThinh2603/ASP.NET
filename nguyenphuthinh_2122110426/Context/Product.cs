@@ -17,7 +17,7 @@ namespace nguyenphuthinh_2122110426.Context
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
         public Product()
         {
-            this.Order = new HashSet<Order>();
+            this.OrderDetail = new HashSet<OrderDetail>();
         }
     
         public int Id { get; set; }
@@ -40,6 +40,7 @@ namespace nguyenphuthinh_2122110426.Context
         public virtual Brand Brand { get; set; }
         public virtual Category Category { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<Order> Order { get; set; }
+        public virtual ICollection<OrderDetail> OrderDetail { get; set; }
+        public System.Web.HttpPostedFileBase ImageUpload { get; set; }
     }
 }

@@ -33,13 +33,13 @@
                             </ol>
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="~/Content/images/banners/slide1.jpg" alt="First slide">
+                                    <img src="~/Content/images/banners/sile1.jpg" alt="First slide">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="~/Content/images/banners/slide2.jpg" alt="Second slide">
+                                    <img src="~/Content/images/banners/sile2.jpg" alt="Second slide">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="~/Content/images/banners/slide3.jpg" alt="Third slide">
+                                    <img src="~/Content/images/banners/sile3.jpg" alt="Third slide">
                                 </div>
                             </div>
                             <a class="carousel-control-prev" href="#carousel1_indicator" role="button" data-slide="prev">
@@ -62,9 +62,9 @@
                                 <div class="card-banner border-bottom">
                                     <div class="py-3" style="width:80%">
                                         <h6 class="card-title">@category.Name</h6>
-                                        <a href="#" class="btn btn-secondary btn-sm"> Source now </a>
+                                        <a href="@Url.Action("ProductCategory", "Category", new { id = category.Id })" class="btn btn-secondary btn-sm">Xem ngay</a>
                                     </div>
-                                    <img src="~/Content/images/items/1.jpg" height="80" class="img-bg">
+                                    <img src="~/Content/images/items/@category.Avatar" height="80" class="img-bg">
                                 </div>
                             }
                         </aside>
@@ -85,23 +85,24 @@
                     <p>Hygiene equipments</p>
                 </header><!-- sect-heading -->
                 <div class="timer">
-                    <div> <span class="num">04</span> <small>Days</small></div>
-                    <div> <span class="num">12</span> <small>Hours</small></div>
-                    <div> <span class="num">58</span> <small>Min</small></div>
-                    <div> <span class="num">02</span> <small>Sec</small></div>
+                    <div> <span class="num">04</span> <small>Ngày</small></div>
+                    <div> <span class="num">12</span> <small>Giờ</small></div>
+                    <div> <span class="num">58</span> <small>Phút</small></div>
+                    <div> <span class="num">02</span> <small>Giây</small></div>
                 </div>
+
             </div> <!-- col.// -->
             <div class="row no-gutters items-wrap">
                 @foreach (var product in Model.ListProduct.Where(n => n.TypeId == 1).Take(3))
                 {
                     <div class="col-md col-6">
                         <figure class="card-product-grid card-sm">
-                            <a href="@Url.Action("ProductDetail","Product", new { Id= product.Id})" class="img-wrap">
+                            <a href="@Url.Action("ProductDetail","Products", new { Id= product.Id})" class="img-wrap">
                                 <img src="~/Content/images/items/@product.Avatar" alt="@product.Name">
                             </a>
                             <div class="text-wrap p-3">
                                 <!--<a href="#" class="title">product.Name</a>-->
-                                @Html.ActionLink(product.Name, "ProductDetail", "Product", new { Id = product.Id }, null)
+                                @Html.ActionLink(product.Name, "ProductDetail", "Products", new { Id = product.Id }, null)
                                 <span class="badge badge-danger"> -20% </span>
                             </div>
                         </figure>
@@ -115,31 +116,39 @@
     <!-- =============== SECTION 1 =============== -->
     <section class="padding-bottom">
         <header class="section-heading heading-line">
-            <h4 class="title-section text-uppercase">Apple</h4>
+            <h4 class="title-section text-uppercase">Áo hoodie</h4>
         </header>
 
         <div class="card card-home-category">
             <div class="row no-gutters">
                 <div class="col-md-3">
 
-                    <div class="home-category-banner bg-light-orange">
-                        <h5 class="title">Best trending clothes only for summer</h5>
-                        <p>Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
-                        <a href="#" class="btn btn-outline-primary rounded-pill">Source now</a>
-                        <img src="~/Content/images/items/2.jpg" class="img-bg">
-                    </div>
+                    @foreach (var item in Model.ListCategory.Where(p => p.Id == 1))
+                    {
+                        <div class="home-category-banner bg-light-orange" style="max-width: 100%; padding: 10px; margin-bottom: 20px; overflow: hidden; text-align: center;">
+                            <h5 class="title">Áo hoodie thời trang cho mùa đông ấm áp</h5>
+                            <p>Khám phá bộ sưu tập áo hoodie với thiết kế mới, đem đến sự thoải mái và ấm áp cho mùa đông này.</p>
+                            <img src="~/Content/images/items/@item.Avatar" class="img-fluid" alt="Category Image" style="max-width: 150px; max-height: 150px; height: auto;">
+                            <a href="@Url.Action("ProductCategory", "Category", new { id = item.Id })" class="btn btn-outline-primary rounded-pill" style="margin-top: 10px;">Source now</a>
+                        </div>
+                    }
+
+
+
 
                 </div> <!-- col.// -->
                 <div class="col-md-9">
                     <ul class="row no-gutters bordered-cols">
-                        @foreach (var product in Model.ListProduct.Where(n => n.BrandId == 1))
+                        @foreach (var item in Model.ListProduct.Where(p => p.CategoryId == 1).Take(8))
                         {
                             <li class="col-6 col-lg-3 col-md-4">
-                                <a href="#" class="item">
+                                <a href="@Url.Action("ProductDetail", "Products", new { id = item.Id })" class="item">
                                     <div class="card-body">
-                                        <h6 class="title">Well made women clothes with trending collection  </h6>
-                                        <img class="img-sm float-right" src="~/Content/images/items/@product.Avatar" alt="@product.Name">
-                                        <p class="text-muted"><i class="fa fa-map-marker-alt"></i> @product.Name</p>
+                                        <h6 class="title" style="display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis;">
+                                            @item.ShortDes
+                                        </h6>
+                                        <img class="img-sm float-right" src="~/Content/images/items/@item.Avatar">
+                                        <p class="text-muted"><i class="fa fa-map-marker-alt"></i>Quận 9, TPHCM</p>
                                     </div>
                                 </a>
                             </li>
@@ -153,31 +162,36 @@
     <!-- =============== SECTION 2 =============== -->
     <section class="padding-bottom">
         <header class="section-heading heading-line">
-            <h4 class="title-section text-uppercase">Samsung</h4>
+            <h4 class="title-section text-uppercase">Áo thun</h4>
         </header>
 
         <div class="card card-home-category">
             <div class="row no-gutters">
                 <div class="col-md-3">
 
-                    <div class="home-category-banner bg-light-orange">
-                        <h5 class="title">Machinery items for manufacturers</h5>
-                        <p>Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
-                        <a href="#" class="btn btn-outline-primary rounded-pill">Source now</a>
-                        <img src="~/Content/images/items/14.jpg" class="img-bg">
-                    </div>
+                    @foreach (var item in Model.ListCategory.Where(p => p.Id == 2))
+                    {
+                        <div class="home-category-banner bg-light-orange" style="max-width: 100%; padding: 10px; margin-bottom: 20px; overflow: hidden; text-align: center;">
+                            <h5 class="title">Áo thun phong cách, thời trang cho mọi mùa</h5>
+                            <p>Khám phá bộ sưu tập áo thun đa dạng, phù hợp với mọi dịp, mang đến sự thoải mái và phong cách cho bạn.</p>
+                            <img src="~/Content/images/items/@item.Avatar" class="img-fluid" alt="Category Image" style="max-width: 150px; max-height: 150px; height: auto;">
+                            <a href="@Url.Action("ProductCategory", "Category", new { id = item.Id })" class="btn btn-outline-primary rounded-pill" style="margin-top: 10px;">Source now</a>
+                        </div>
+                    }
 
                 </div> <!-- col.// -->
                 <div class="col-md-9">
                     <ul class="row no-gutters bordered-cols">
-                        @foreach (var product in Model.ListProduct.Where(n => n.BrandId == 2))
+                        @foreach (var item in Model.ListProduct.Where(p => p.CategoryId == 2).Take(8))
                         {
                             <li class="col-6 col-lg-3 col-md-4">
-                                <a href="#" class="item">
+                                <a href="@Url.Action("ProductDetail", "Products", new { id = item.Id })" class="item">
                                     <div class="card-body">
-                                        <h6 class="title">Well made women clothes with trending collection  </h6>
-                                        <img class="img-sm float-right" src="~/Content/images/items/@product.Avatar" alt="@product.Name">
-                                        <p class="text-muted"><i class="fa fa-map-marker-alt"></i> @product.Name</p>
+                                        <h6 class="title" style="display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis;">
+                                            @item.ShortDes
+                                        </h6>
+                                        <img class="img-sm float-right" src="~/Content/images/items/@item.Avatar">
+                                        <p class="text-muted"><i class="fa fa-map-marker-alt"></i>Quận 9, TPHCM</p>
                                     </div>
                                 </a>
                             </li>
@@ -193,188 +207,190 @@
     <section class="padding-bottom">
 
         <header class="section-heading heading-line">
-            <h4 class="title-section text-uppercase">Request for Quotation</h4>
+            <h4 class="title-section text-uppercase">Yêu cầu báo giá</h4>
         </header>
 
         <div class="row">
             <div class="col-md-8">
                 <div class="card-banner banner-quote overlay-gradient" style="background-image: url('~/Content/images/banners/banner9.jpg');">
                     <div class="card-img-overlay white">
-                        <h3 class="card-title">An easy way to send request to suppliers</h3>
+                        <h3 class="card-title">Cách đơn giản để gửi yêu cầu đến nhà cung cấp</h3>
                         <p class="card-text" style="max-width: 400px">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                            tempor incididunt.
+                            Chúng tôi cung cấp những sản phẩm thời trang chất lượng cao, mang lại sự thoải mái và phong cách cho bạn. Khám phá ngay những bộ sưu tập mới nhất của chúng tôi!
                         </p>
-                        <a href="" class="btn btn-primary rounded-pill">Learn more</a>
+
+                        <a href="" class="btn btn-primary rounded-pill">Tìm hiểu thêm</a>
                     </div>
                 </div>
             </div> <!-- col // -->
             <div class="col-md-4">
 
                 <div class="card card-body">
-                    <h4 class="title py-3">One Request, Multiple Quotes</h4>
+                    <h4 class="title py-3">Một yêu cầu, nhiều báo giá</h4>
                     <form>
                         <div class="form-group">
-                            <input class="form-control" name="" placeholder="What are you looking for?" type="text">
+                            <input class="form-control" name="" placeholder="Bạn đang tìm gì?" type="text">
                         </div>
-                        <div class="form-group">
-                            <div class="input-group">
-                                <input class="form-control" placeholder="Quantity" name="" type="text">
-
-                                <select class="custom-select form-control">
-                                    <option>Pieces</option>
-                                    <option>Litres</option>
-                                    <option>Tons</option>
-                                    <option>Gramms</option>
-                                </select>
-                            </div>
-                        </div>
-                        <div class="form-group text-muted">
-                            <p>Select template type:</p>
-                            <label class="form-check form-check-inline">
-                                <input class="form-check-input" type="checkbox" value="option1">
-                                <div class="form-check-label">Request price</div>
-                            </label>
-                            <label class="form-check form-check-inline">
-                                <input class="form-check-input" type="checkbox" value="option2">
-                                <div class="form-check-label">Request a sample</div>
-                            </label>
-                        </div>
-                        <div class="form-group">
-                            <button class="btn btn-warning">Request for quote</button>
-                        </div>
-                    </form>
                 </div>
+                <div class="form-group">
+                    <div class="input-group">
+                        <input class="form-control" placeholder="Số lượng" name="" type="text">
 
-            </div> <!-- col // -->
-        </div> <!-- row // -->
+                        <select class="custom-select form-control">
+                            <option>Chiếc</option>
+                            <option>Bộ</option>
+                            <option>Cặp</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form-group text-muted">
+                    <p>Chọn loại mẫu yêu cầu:</p>
+                    <label class="form-check form-check-inline">
+                        <input class="form-check-input" type="checkbox" value="option1">
+                        <div class="form-check-label">Yêu cầu báo giá</div>
+                    </label>
+                    <label class="form-check form-check-inline">
+                        <input class="form-check-input" type="checkbox" value="option2">
+                        <div class="form-check-label">Yêu cầu mẫu</div>
+                    </label>
+                </div>
+                <div class="form-group">
+                    <button class="btn btn-warning">Gửi yêu cầu báo giá</button>
+                </div>
+                </form>
+            </div>
+
+        </div> <!-- col // -->
+</div> <!-- row // -->
     </section>
 
-    <!-- =============== SECTION REQUEST .//END =============== -->
-    <!-- =============== SECTION ITEMS =============== -->
-    <section class="padding-bottom-sm">
+<!-- =============== SECTION REQUEST .//END =============== -->
+<!-- =============== SECTION ITEMS =============== -->
+<section class="padding-bottom-sm">
 
-        <header class="section-heading heading-line">
-            <h4 class="title-section text-uppercase">Sản phẩm đề xuất</h4>
-        </header>
+    <header class="section-heading heading-line">
+        <h4 class="title-section text-uppercase">Sản phẩm đề xuất</h4>
+    </header>
 
-        <div class="row row-sm">
-            @foreach (var product in Model.ListProduct.Where(n => n.TypeId == 1).Take(6))
-            {
-                <div class="col-xl-2 col-lg-3 col-md-4 col-6">
-                    <div class="card card-sm card-product-grid">
-                        <a href="@Url.Action("ProductDetail", "Product", new { id = product.Id })" class="img-wrap">
-                            <img src="~/Content/images/items/@product.Avatar" alt="@product.Name">
-                        </a>
-                        <figcaption class="info-wrap">
-                            <a href="@Url.Action("ProductDetail", "Product", new { id = product.Id })" class="title">@product.Name</a>
-                            <div class="price mt-1">
-                                @product.Price
-                            </div> <!-- price-wrap.// -->
-                        </figcaption>
-                    </div>
-                </div> <!-- col.// -->
-            }
-        </div> <!-- row.// -->
-    </section>
-    <!-- =============== SECTION ITEMS .//END =============== -->
-    <!-- =============== SECTION SERVICES =============== -->
-    <section class="padding-bottom">
+    <div class="row row-sm">
+        @foreach (var product in Model.ListProduct.Where(n => n.TypeId == 1).Take(6))
+        {
+            <div class="col-xl-2 col-lg-3 col-md-4 col-6">
+                <div class="card card-sm card-product-grid">
+                    <a href="@Url.Action("ProductDetail", "Products", new { id = product.Id })" class="img-wrap">
+                        <img src="~/Content/images/items/@product.Avatar" alt="@product.Name">
+                    </a>
+                    <figcaption class="info-wrap">
+                        <a href="@Url.Action("ProductDetail", "Products", new { id = product.Id })" class="title">@product.Name</a>
+                        <div class="price mt-1">
+                            @string.Format("{0:N0} ₫", product.Price)
+                        </div> <!-- price-wrap.// -->
 
-        <header class="section-heading heading-line">
-            <h4 class="title-section text-uppercase">Trade services</h4>
-        </header>
-
-        <div class="row">
-            <div class="col-md-3 col-sm-6">
-                <article class="card card-post">
-                    <img src="~/Content/images/posts/1.jpg" class="card-img-top">
-                    <div class="card-body">
-                        <h6 class="title">Trade Assurance</h6>
-                        <p class="small text-uppercase text-muted">Order protection</p>
-                    </div>
-                </article> <!-- card.// -->
+                    </figcaption>
+                </div>
             </div> <!-- col.// -->
-            <div class="col-md-3 col-sm-6">
-                <article class="card card-post">
-                    <img src="~/Content/images/posts/2.jpg" class="card-img-top">
-                    <div class="card-body">
-                        <h6 class="title">Pay anytime</h6>
-                        <p class="small text-uppercase text-muted">Finance solution</p>
-                    </div>
-                </article> <!-- card.// -->
-            </div> <!-- col.// -->
-            <div class="col-md-3 col-sm-6">
-                <article class="card card-post">
-                    <img src="~/Content/images/posts/3.jpg" class="card-img-top">
-                    <div class="card-body">
-                        <h6 class="title">Inspection solution</h6>
-                        <p class="small text-uppercase text-muted">Easy Inspection</p>
-                    </div>
-                </article> <!-- card.// -->
-            </div> <!-- col.// -->
-            <div class="col-md-3 col-sm-6">
-                <article class="card card-post">
-                    <img src="~/Content/images/posts/4.jpg" class="card-img-top">
-                    <div class="card-body">
-                        <h6 class="title">Ocean and Air Shipping</h6>
-                        <p class="small text-uppercase text-muted">Logistic services</p>
-                    </div>
-                </article> <!-- card.// -->
-            </div> <!-- col.// -->
-        </div> <!-- row.// -->
+        }
+    </div> <!-- row.// -->
+</section>
+<!-- =============== SECTION ITEMS .//END =============== -->
+<!-- =============== SECTION SERVICES =============== -->
+<section class="padding-bottom">
 
-    </section>
-    <!-- =============== SECTION SERVICES .//END =============== -->
-    <!-- =============== SECTION REGION =============== -->
-    <section class="padding-bottom">
+    <header class="section-heading heading-line">
+        <h4 class="title-section text-uppercase">Dịch vụ giao dịch</h4>
+    </header>
 
-        <header class="section-heading heading-line">
-            <h4 class="title-section text-uppercase">Choose region</h4>
-        </header>
+    <div class="row">
+        <div class="col-md-3 col-sm-6">
+            <article class="card card-post">
+                <img src="~/Content/images/posts/1.jpg" class="card-img-top">
+                <div class="card-body">
+                    <h6 class="title">Bảo vệ đơn hàng</h6>
+                    <p class="small text-uppercase text-muted">Bảo vệ đơn hàng của bạn</p>
+                </div>
+            </article> <!-- card.// -->
+        </div> <!-- col.// -->
+        <div class="col-md-3 col-sm-6">
+            <article class="card card-post">
+                <img src="~/Content/images/posts/2.jpg" class="card-img-top">
+                <div class="card-body">
+                    <h6 class="title">Thanh toán bất cứ lúc nào</h6>
+                    <p class="small text-uppercase text-muted">Giải pháp tài chính</p>
+                </div>
+            </article> <!-- card.// -->
+        </div> <!-- col.// -->
+        <div class="col-md-3 col-sm-6">
+            <article class="card card-post">
+                <img src="~/Content/images/posts/3.jpg" class="card-img-top">
+                <div class="card-body">
+                    <h6 class="title">Giải pháp kiểm tra</h6>
+                    <p class="small text-uppercase text-muted">Kiểm tra dễ dàng</p>
+                </div>
+            </article> <!-- card.// -->
+        </div> <!-- col.// -->
+        <div class="col-md-3 col-sm-6">
+            <article class="card card-post">
+                <img src="~/Content/images/posts/4.jpg" class="card-img-top">
+                <div class="card-body">
+                    <h6 class="title">Vận chuyển đường biển và đường hàng không</h6>
+                    <p class="small text-uppercase text-muted">Dịch vụ logistic</p>
+                </div>
+            </article> <!-- card.// -->
+        </div> <!-- col.// -->
+    </div> <!-- row.// -->
 
-        <ul class="row mt-4">
-            <li class="col-md col-6"><a href="#" class="icontext"> <img class="icon-flag-sm" src="~/Content/images/icons/flags/CN.png"> <span>China</span> </a></li>
-            <li class="col-md col-6"><a href="#" class="icontext"> <img class="icon-flag-sm" src="~/Content/images/icons/flags/DE.png"> <span>Germany</span> </a></li>
-            <li class="col-md col-6"><a href="#" class="icontext"> <img class="icon-flag-sm" src="~/Content/images/icons/flags/AU.png"> <span>Australia</span> </a></li>
-            <li class="col-md col-6"><a href="#" class="icontext"> <img class="icon-flag-sm" src="~/Content/images/icons/flags/RU.png"> <span>Russia</span> </a></li>
-            <li class="col-md col-6"><a href="#" class="icontext"> <img class="icon-flag-sm" src="~/Content/images/icons/flags/IN.png"> <span>India</span> </a></li>
-            <li class="col-md col-6"><a href="#" class="icontext"> <img class="icon-flag-sm" src="~/Content/images/icons/flags/GB.png"> <span>England</span> </a></li>
-            <li class="col-md col-6"><a href="#" class="icontext"> <img class="icon-flag-sm" src="~/Content/images/icons/flags/TR.png"> <span>Turkey</span> </a></li>
-            <li class="col-md col-6"><a href="#" class="icontext"> <img class="icon-flag-sm" src="~/Content/images/icons/flags/UZ.png"> <span>Uzbekistan</span> </a></li>
-            <li class="col-md col-6"><a href="#" class="icontext"> <i class="mr-3 fa fa-ellipsis-h"></i> <span>More regions</span> </a></li>
-        </ul>
-    </section>
-    <!-- =============== SECTION REGION .//END =============== -->
+</section>
 
-    <article class="my-4">
-        <img src="~/Content/images/banners/ad-sm.png" class="w-100">
-    </article>
+<!-- =============== SECTION SERVICES .//END =============== -->
+<!-- =============== SECTION REGION =============== -->
+<section class="padding-bottom">
+
+    <header class="section-heading heading-line">
+        <h4 class="title-section text-uppercase">Choose region</h4>
+    </header>
+
+    <ul class="row mt-4">
+        <li class="col-md col-6"><a href="#" class="icontext"> <img class="icon-flag-sm" src="~/Content/images/icons/flags/CN.png"> <span>China</span> </a></li>
+        <li class="col-md col-6"><a href="#" class="icontext"> <img class="icon-flag-sm" src="~/Content/images/icons/flags/DE.png"> <span>Germany</span> </a></li>
+        <li class="col-md col-6"><a href="#" class="icontext"> <img class="icon-flag-sm" src="~/Content/images/icons/flags/AU.png"> <span>Australia</span> </a></li>
+        <li class="col-md col-6"><a href="#" class="icontext"> <img class="icon-flag-sm" src="~/Content/images/icons/flags/RU.png"> <span>Russia</span> </a></li>
+        <li class="col-md col-6"><a href="#" class="icontext"> <img class="icon-flag-sm" src="~/Content/images/icons/flags/IN.png"> <span>India</span> </a></li>
+        <li class="col-md col-6"><a href="#" class="icontext"> <img class="icon-flag-sm" src="~/Content/images/icons/flags/GB.png"> <span>England</span> </a></li>
+        <li class="col-md col-6"><a href="#" class="icontext"> <img class="icon-flag-sm" src="~/Content/images/icons/flags/TR.png"> <span>Turkey</span> </a></li>
+        <li class="col-md col-6"><a href="#" class="icontext"> <img class="icon-flag-sm" src="~/Content/images/icons/flags/UZ.png"> <span>Uzbekistan</span> </a></li>
+        <li class="col-md col-6"><a href="#" class="icontext"> <i class="mr-3 fa fa-ellipsis-h"></i> <span>More regions</span> </a></li>
+    </ul>
+</section>
+<!-- =============== SECTION REGION .//END =============== -->
+
+<article class="my-4">
+    <img src="~/Content/images/banners/ad-sm.png" class="w-100">
+</article>
 </div>
 <!-- container end.// -->
 <!-- ========================= SECTION SUBSCRIBE  ========================= -->
 <section class="section-subscribe padding-y-lg">
     <div class="container">
 
-        <p class="pb-2 text-center text-white">Delivering the latest product trends and industry news straight to your inbox</p>
+        <p class="pb-2 text-center text-white">Cung cấp những xu hướng sản phẩm mới nhất và tin tức ngành trực tiếp đến hộp thư của bạn</p>
 
         <div class="row justify-content-md-center">
             <div class="col-lg-5 col-md-6">
                 <form class="form-row">
                     <div class="col-md-8 col-7">
-                        <input class="form-control border-0" placeholder="Your Email" type="email">
+                        <input class="form-control border-0" placeholder="Email của bạn" type="email">
                     </div> <!-- col.// -->
                     <div class="col-md-4 col-5">
-                        <button type="submit" class="btn btn-block btn-warning"> <i class="fa fa-envelope"></i> Subscribe </button>
+                        <button type="submit" class="btn btn-block btn-warning"> <i class="fa fa-envelope"></i> Đăng ký </button>
                     </div> <!-- col.// -->
                 </form>
-                <small class="form-text text-white-50">We’ll never share your email address with a third-party. </small>
+                <small class="form-text text-white-50">Chúng tôi sẽ không bao giờ chia sẻ địa chỉ email của bạn với bên thứ ba.</small>
             </div> <!-- col-md-6.// -->
         </div>
 
-
     </div>
 </section>
+
 <!-- ========================= SECTION SUBSCRIBE END// ========================= -->
 <!-- ========================= FOOTER ========================= -->
 </body>
