@@ -41,23 +41,20 @@
                             </a> <!-- brand-wrap.// -->
                         </div>
                         <div class="col-xl-6 col-lg-5 col-md-6">
-                            <form action="#" class="search-header">
+                            <form action="@Url.Action("AllProduct", "Products")" method="get" class="search-header">
                                 <div class="input-group w-100">
-                                    <select class="custom-select border-right" name="category_name">
-                                        <option value="">Tất cả các loại</option>
-                                        <option value="codex">Đặc biệt</option>
-                                        <option value="comments">Chỉ những món tốt nhất</option>
-                                        <option value="content">Mới nhất</option>
-                                    </select>
-                                    <input type="text" class="form-control" placeholder="Tìm kiếm">
+                                    <!-- Ô input tìm kiếm -->
+                                    <input type="text" class="form-control" placeholder="Search" name="SearchString" value="@ViewBag.CurentFIlter">
 
+                                    <!-- Nút tìm kiếm -->
                                     <div class="input-group-append">
                                         <button class="btn btn-primary" type="submit">
-                                            <i class="fa fa-search"></i> Tìm kiếm
+                                            <i class="fa fa-search"></i> Search
                                         </button>
                                     </div>
                                 </div>
-                            </form> <!-- search-wrap .end// -->
+                            </form>
+                            <!-- search-wrap .end// -->
                         </div> <!-- col.// -->
                         <div class="col-xl-4 col-lg-4 col-md-6">
                             <div class="widgets-wrap float-md-right">
@@ -66,7 +63,7 @@
                                     {
                                         <!-- Hiển thị các liên kết cho người dùng đã đăng nhập -->
                                         <ul style="list-style-type: none; padding-left: 0;">
-                                            <li><a href="~/Home/Logout" class="btn btn-warning">Đăng xuất </a></li>
+                                            <li><a href="~/Home/Logout" class="btn btn-warning">Đăng xuất</a></li>
                                         </ul>
                                     }
                                     else
@@ -74,20 +71,19 @@
                                         <!-- Hiển thị các liên kết cho người dùng chưa đăng nhập -->
                                         <ul style="list-style-type: none; padding-left: 0; display: flex;">
                                             <li style="margin-right: 10px;">
-                                                <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; cursor: pointer;">
+                                                <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 10px; cursor: pointer;">
                                                     <a href="~/Home/Register" style="color: white; text-decoration: none;">Đăng ký</a>
                                                 </button>
                                             </li>
                                             <li>
-                                                <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; cursor: pointer;">
+                                                <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 10px; cursor: pointer;">
                                                     <a href="~/Home/Login" style="color: white; text-decoration: none;">Đăng nhập</a>
                                                 </button>
                                             </li>
                                         </ul>
-
-
                                     }
                                 </div>
+
 
 
 
@@ -96,7 +92,7 @@
                                         <div class="icon-area">
                                             <i class="fa fa-store"></i>
                                         </div>
-                                        <small class="text"> Orders </small>
+                                        <small class="text"> Đơn </small>
                                     </a>
                                 </div>
                                 <div class="widget-header">
@@ -107,7 +103,7 @@
                                                 @(Session["count"] != null ? Session["count"] : 0)
                                             </span>
                                         </div>
-                                        <small class="text"> Cart </small>
+                                        <small class="text"> Giỏ hàng  </small>
                                     </a>
                                 </div>
 
@@ -142,45 +138,16 @@
                             <li class="nav-item">
                                 <a class="nav-link" href="#">Sẵn sàng giao hàng</a>
                             </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="#">Triển lãm thương mại</a>
-                            </li>
+                       
                             <li class="nav-item">
                                 <a class="nav-link" href="#">Dịch vụ</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="#">Bán hàng cùng chúng tôi</a>
                             </li>
-                            <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Trang demo</a>
-                                <div class="dropdown-menu">
-                                    <a class="dropdown-item" href="page-index.html">Trang chủ</a>
-                                    <a class="dropdown-item" href="page-category.html">Tất cả các danh mục</a>
-                                    <a class="dropdown-item" href="page-listing-large.html">Danh sách sản phẩm</a>
-                                    <a class="dropdown-item" href="page-listing-grid.html">Lưới danh sách</a>
-                                    <a class="dropdown-item" href="page-shopping-cart.html">Giỏ hàng</a>
-                                    <a class="dropdown-item" href="page-detail-product.html">Chi tiết sản phẩm</a>
-                                    <a class="dropdown-item" href="page-content.html">Nội dung thông tin</a>
-                                    <a class="dropdown-item" href="page-user-login.html">Trang đăng nhập</a>
-                                    <a class="dropdown-item" href="page-user-register.html">Trang đăng ký</a>
-                                    <a class="dropdown-item disabled text-muted" href="#">Thêm thành phần</a>
-                                </div>
-                            </li>
+                           
                         </ul>
-                        <ul class="navbar-nav ml-md-auto">
-                            <li class="nav-item">
-                                <a class="nav-link" href="#">Tải ứng dụng</a>
-                            </li>
-                            <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="http://example.com" data-toggle="dropdown">Tiếng Anh</a>
-                                <div class="dropdown-menu dropdown-menu-right">
-                                    <a class="dropdown-item" href="#">Tiếng Nga</a>
-                                    <a class="dropdown-item" href="#">Tiếng Pháp</a>
-                                    <a class="dropdown-item" href="#">Tiếng Tây Ban Nha</a>
-                                    <a class="dropdown-item" href="#">Tiếng Trung</a>
-                                </div>
-                            </li>
-                        </ul>
+           
                     </div> <!-- collapse .// -->
                 </div> <!-- container .// -->
             </nav>
@@ -249,6 +216,7 @@
         </footer> <!-- section-footer.// -->
 
     </div> <!-- container body-content .// -->
+   
 </body>
 
 </html>

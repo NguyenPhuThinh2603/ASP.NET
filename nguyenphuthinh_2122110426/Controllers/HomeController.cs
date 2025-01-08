@@ -101,18 +101,21 @@ namespace nguyenphuthinh_2122110426.Controllers
             Session.Clear();//remove session
             return RedirectToAction("Login");
         }
-        public ActionResult About()
+
+        public ActionResult Search(string query)
         {
-            ViewBag.Message = "Your application description page.";
+            if (string.IsNullOrEmpty(query))
+            {
+                return View("SearchResults", new List<Product>()); // Không có kết quả
+            }
 
-            return View();
-        }
+            // Tìm kiếm sản phẩm theo tên hoặc mô tả
+            var products = objWebsiteASP_NETEntities.Product
+                .Where(p => p.Name.Contains(query) || p.ShortDes.Contains(query))
+                .ToList();
 
-        public ActionResult Contact()
-        {
-            ViewBag.Message = "Your contact page.";
-
-            return View();
+            // Trả về view với danh sách sản phẩm tìm được
+            return View("SearchResults", products);
         }
     }
 }

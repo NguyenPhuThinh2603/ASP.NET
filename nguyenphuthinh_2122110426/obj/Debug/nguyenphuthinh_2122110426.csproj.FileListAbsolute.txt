@@ -243,3 +243,7 @@ C:\Users\voeee\Downloads\ASP.NET-main\ASP.NET-main\nguyenphuthinh_2122110426\obj
 C:\Users\voeee\Downloads\ASP.NET-main\ASP.NET-main\nguyenphuthinh_2122110426\obj\Debug\nguyenph.671845E9.Up2Date
 C:\Users\voeee\Downloads\ASP.NET-main\ASP.NET-main\nguyenphuthinh_2122110426\obj\Debug\nguyenphuthinh_2122110426.dll
 C:\Users\voeee\Downloads\ASP.NET-main\ASP.NET-main\nguyenphuthinh_2122110426\obj\Debug\nguyenphuthinh_2122110426.pdb
+C:\Users\voeee\Downloads\ASP.NET-main\ASP.NET-main\nguyenphuthinh_2122110426\bin\PagedList.dll
+C:\Users\voeee\Downloads\ASP.NET-main\ASP.NET-main\nguyenphuthinh_2122110426\bin\PagedList.Mvc.dll
+C:\Users\voeee\Downloads\ASP.NET-main\ASP.NET-main\nguyenphuthinh_2122110426\bin\PagedList.xml
+C:\Users\voeee\Downloads\ASP.NET-main\ASP.NET-main\nguyenphuthinh_2122110426\bin\PagedList.Mvc.xml
